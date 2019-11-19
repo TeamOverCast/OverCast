@@ -1,1 +1,2 @@
-#The main Python file
+import window
+window.window()
